@@ -1,5 +1,5 @@
 # pnw4go
-[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) [![Go Report Card](https://goreportcard.com/badge/gitlab.com/pythonian23/pnw4go)](https://goreportcard.com/report/gitlab.com/pythonian23/pnw4go)
 
 A GoLang wrapper for Politics & War's API. Forego the hassle of accessing the API directly!
 
